@@ -6,5 +6,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/Push_Swap_Visualizer/',  // Update this line
+  base: '/push_swap_ui/',  // Update this line
 });
